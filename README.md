@@ -1,12 +1,12 @@
 vagrant-docker-jenkins
 =====
 
-Run a container with jenkins installed on Vagrant.
+Run a docker container with Jenkins installed on Vagrant.
 
 ## Usage
 
 ```
-$ clone https://github.com/lciel/vagrant-docker-jenkins.git
+$ git clone https://github.com/lciel/vagrant-docker-jenkins.git
 $ cd vagrant-docker-jenkins
 $ vagrant up
 
