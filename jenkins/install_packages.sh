@@ -4,7 +4,8 @@
 apt-get -y update
 apt-get install -y -q \
     openjdk-7-jre-headless \
-    curl
+    curl \
+    git
 
 # Install jenkins
 curl -L -o /opt/jenkins.war http://mirrors.jenkins-ci.org/war/1.590/jenkins.war
